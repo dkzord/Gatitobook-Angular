@@ -11,7 +11,6 @@ export class TokeService {
     return localStorage.getItem(KEY) ?? '';
   }
 
-
   salvaToken(token:string){
     localStorage.setItem(KEY,token);
   }

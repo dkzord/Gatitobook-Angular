@@ -1,0 +1,17 @@
+.ajusteIcon{
+  margin: 0 0.4rem 0 0;
+}
+
+.ajusteName{
+  margin: 0 0.3rem 0 0;
+  text-transform: capitalize;
+}
+
+.ajusteLogout{
+  margin: 0 0.4rem 0 0;
+  cursor: pointer;
+}
+
+.ajusteLogout:hover{
+  font-weight: bold;
+}
