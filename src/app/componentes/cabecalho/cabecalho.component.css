@@ -13,5 +13,19 @@
 }
 
 .ajusteLogout:hover{
-  font-weight: bold;
+  color: var(--hover-color);
+}
+
+.ajusteLogin{
+  margin: 0 0.6rem 0 0;
+}
+
+.navbar-light .navbar-text a:hover{
+  color: var(--hover-color);
+}
+
+.ajusteLogo {
+  font-weight: 400;
+  margin: 0 0 0 0.6rem;
+  color: var(--hover-brand);
 }
